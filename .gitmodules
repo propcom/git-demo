@@ -1,0 +1,3 @@
+[submodule "submodules/should/go/here/sub1"]
+	path = submodules/should/go/here/sub1
+	url = ../demo-submodules/sub1/
